@@ -11,7 +11,7 @@ import java.io.IOException;
  что делает каждый философ и сколько риса он съел. —читать, что в тарелке бесконечный запас риса.**/
 
 public class Main{
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         Philosopher phil1 = new Philosopher();
         Philosopher phil2 = new Philosopher();
         Philosopher phil3 = new Philosopher();
